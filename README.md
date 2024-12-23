@@ -8,7 +8,7 @@
 - Data Analysis and Visualization (Intermediate)
 
 ## Education			        		
-- Dual B.S., Information Systems & Software Applications/Systems Development | Le Moyne College (_May 2026_)
+Dual B.S., Information Systems & Software Applications/Systems Development | Le Moyne College (_May 2026_)
 
 ## Relevant Work Experience
 **IT Service Desk Consultant @ Le Moyne College (_August 2024 - Present_)**
